@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "TKII Al Abidin Surakarta",
+    "jumlahSiswa": 292
+  },
+  {
+    "id": 2,
+    "name": "TKQP Al Abidin Karanganyar",
+    "jumlahSiswa": 158
+  },
+  {
+    "id": 3,
+    "name": "SDII Al Abidin Surakarta",
+    "jumlahSiswa": 581
+  },
+  {
+    "id": 4,
+    "name": "SDTQ Al Abidin Surakarta",
+    "jumlahSiswa": 477
+  },
+  {
+    "id": 5,
+    "name": "SDICT Al Abidin Surakarta",
+    "jumlahSiswa": 416
+  },
+  {
+    "id": 6,
+    "name": "SMPI Al Abidin Surakarta",
+    "jumlahSiswa": 542
+  },
+  {
+    "id": 7,
+    "name": "SMP ABBS Surakarta",
+    "jumlahSiswa": 360
+  },
+  {
+    "id": 8,
+    "name": "SMA ABBS Surakarta",
+    "jumlahSiswa": 1092
+  },
+  {
+    "id": 9,
+    "name": "TKII Al Abidin Boyolali",
+    "jumlahSiswa": 284
+  },
+  {
+    "id": 10,
+    "name": "SDII Al Abidin Boyolali",
+    "jumlahSiswa": 466
+  },
+  {
+    "id": 11,
+    "name": "SMPII Al Abidin Boyolali",
+    "jumlahSiswa": 286
+  },
+  {
+    "id": 12,
+    "name": "SDII Al Abidin Sragen",
+    "jumlahSiswa": 186
+  },
+  {
+    "id": 13,
+    "name": "TKII Al Abidin Karanganyar",
+    "jumlahSiswa": 180
+  },
+  {
+    "id": 14,
+    "name": "SDII Al Abidin Karanganyar",
+    "jumlahSiswa": 165
+  },
+  {
+    "id": 15,
+    "name": "SMPII Al Abidin Karanganyar",
+    "jumlahSiswa": 154
+  },
+  {
+    "id": 16,
+    "name": "TKII Al Abidin Sukoharjo",
+    "jumlahSiswa": 182
+  },
+  {
+    "id": 17,
+    "name": "SDII Al Abidin Sukoharjo",
+    "jumlahSiswa": 164
+  },
+  {
+    "id": 18,
+    "name": "SMPII Al Abidin Sukoharjo",
+    "jumlahSiswa": 172
+  },
+  {
+    "id": 19,
+    "name": "TKII Al Abidin Klaten",
+    "jumlahSiswa": 100
+  },
+  {
+    "id": 20,
+    "name": "SDII Al Abidin Klaten",
+    "jumlahSiswa": 78
+  },
+  {
+    "id": 21,
+    "name": "SMPII Al Abidin Klaten",
+    "jumlahSiswa": 53
+  },
+  {
+    "id": 22,
+    "name": "TKII Al Abidin Yogyakarta",
+    "jumlahSiswa": 86
+  },
+  {
+    "id": 23,
+    "name": "SDII Al Abidin Yogyakarta",
+    "jumlahSiswa": 54
+  },
+  {
+    "id": 24,
+    "name": "SMPII Al Abidin Yogyakarta",
+    "jumlahSiswa": 40
+  },
+  {
+    "id": 25,
+    "name": "SMA ABBS Sukoharjo",
+    "jumlahSiswa": 40
+  },
+  {
+    "id": 26,
+    "name": "SMA ABBS Boyolali",
+    "jumlahSiswa": 40
+  },
+  {
+    "id": 27,
+    "name": "Test2",
+    "jumlahSiswa": 12
+  }
+]
